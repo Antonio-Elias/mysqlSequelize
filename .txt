@@ -1,0 +1,1 @@
+app.engine('handlebars', exphbs.engine())
