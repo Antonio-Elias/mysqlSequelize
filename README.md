@@ -3,7 +3,7 @@
 Neste projeto usei as seguintes tecnologias:
 - NodeJs
 - Expess
-- Expess-handlebars coma a engine para as views
+- Expess-handlebars com a engine para as views (Ja com a ideia de evitar programação nesta camada)
 - Banco de dados relacional Mysql
 - e para gerenciamento como model usei o sequelize ORM
 
